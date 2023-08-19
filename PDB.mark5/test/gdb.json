@@ -1,0 +1,18 @@
+{
+    "odbc-config" : {
+        "DSN" : "Goldilocks",
+        "HOST" : "192.168.10.56",
+        "UID" : "test",
+        "PWD" : "test",
+        "PORT" : "22581",
+        "CONNECTION_TIMEOUT" : "5",
+        "LOGIN_TIMEOUT" : "3",
+        "PROTOCOL" : "TCP",
+        "FAILOVER_TYPE" : "SESSION",
+        "USE_GLOBAL_SESSION" : "1"
+    },
+    "pdblib-config": {
+        "conn-percent" : 80,
+        "auto-commit" : true
+    }
+}

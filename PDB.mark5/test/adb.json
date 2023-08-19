@@ -1,0 +1,15 @@
+{
+    "odbc-config" : {
+        "DSN" : "Altibaseodbc",
+        "HOST" : "192.168.10.45",
+        "UID" : "pcrf",
+        "PWD" : "pcrf1234",
+        "PORT" : "20305",
+        "CONNECTION_TIMEOUT" : "5",
+        "LOGIN_TIMEOUT" : "3"
+    },
+    "pdblib-config": {
+        "conn-percent" : 80,
+        "auto-commit" : true
+    }
+}
